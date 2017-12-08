@@ -3,7 +3,7 @@
 
 ## Notes
 * Any JVM language can be used
-* Application Code must be submitted by 11:59PM on December 7, 2017
+* Application Code must be submitted by 11:59PM on December 10, 2017
 * Drop a note to the CIJUG organizers on Meetup and provide a link to your solution
 * Github or bitbucket repo is preferred
 * Make sure to include a readme with any instructions on how to run your solution
